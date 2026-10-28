@@ -5,7 +5,7 @@ Software engineer with 20+ years of programming, and owner of **CodeBits**, an i
 **What I build**
 
 - **Websites & web design** — custom websites, WordPress themes, landing pages, e-commerce
-- **Web apps & platforms** — portals, booking and ticketing, CMS, dashboards (Laravel, Livewire, Vue.js, MySQL)
+- **Web apps & platforms** — portals, booking and ticketing, CMS, dashboards
 - **Apple apps** — native Swift/SwiftUI for iPhone, iPad, Apple TV and Mac
 - **Custom & desktop software** — Java/JavaFX, C#, automation tools
 
