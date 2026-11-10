@@ -1,4 +1,4 @@
-# Tony Parenti · CodeBits
+# Antonio Parenti · CodeBits
 
 Software engineer with 20+ years of programming, and owner of **CodeBits**. I work for clients wherever they are: we meet in person where it suits best, or online.
 
